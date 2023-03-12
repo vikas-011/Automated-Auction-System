@@ -34,4 +34,3 @@
 </ul>
 
 <h2></h2>
-<img src="https://github.com/sofiyanshaikh008/Automated-Auction-System01/blob/main/ERD.PNG" alt="ERD">
