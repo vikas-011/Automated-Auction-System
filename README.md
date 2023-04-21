@@ -34,5 +34,8 @@
 </ul>
 
 
-<h2></h2>
+<h2>Flow-Chart</h2>
 <img src="https://user-images.githubusercontent.com/103686747/225892477-ecc8a989-339f-42ef-884b-6dfa7b8452b6.jpeg" alt="ER-Digram">
+<h2>ER-Diagram</h2>
+<img src="https://user-images.githubusercontent.com/103686747/233701023-719ac08d-cee6-451a-808c-54786404b923.png">
+
